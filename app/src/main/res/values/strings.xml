@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">KataApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="no_results">No results</string>
+    <string name="invalid_content">Invalid Grid</string>
+    <string name="ok">Ok</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="sample_dataset">Sample DataSet Grids</string>
+    <string name="custom_dataset">Custom DataSet Grid</string>
+    <string name="select_test_data">Select test data:</string>
+    <string name="go_message">Click RUN to find lowest cost path:</string>
+    <string name="run_button_title">Run</string>
+    <string name="example_1_button_title">DataSet 1</string>
+    <string name="example_2_button_title">DataSet 2</string>
+    <string name="example_3_button_title">DataSet 3</string>
+    <string name="grid_contents_title">Grid Contents</string>
+    <string name="grid_contents_default">Grid is currently empty</string>
+    <string name="results_title">Results</string>
+    <string name="enter_custom_data_set_message">Create a custom grid below. You can use up to 10 lines, with each number separated by a space.</string>
+    <string name="invalid_grid_message">Please enter a grid consisting of:\n\n-1 to 10 lines\n-5 to 100 numbers per line\n-Only numeric characters</string>
+</resources>
