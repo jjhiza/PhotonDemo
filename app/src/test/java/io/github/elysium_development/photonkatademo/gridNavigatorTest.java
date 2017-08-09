@@ -30,7 +30,7 @@ public class gridNavigatorTest {
                 { 8, 4, 1, 3, 2, 6 },
                 { 3, 7, 2, 8, 6, 4 }
         });
-        
+
         gridNavigator visitor = new gridNavigator(grid);
         List<Integer> expectedPath = new ArrayList<Integer>(
                 Arrays.asList(new Integer[]{ 1, 2, 3, 4, 4, 5 })
